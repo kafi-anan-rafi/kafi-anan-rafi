@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kafi-anan-rafi
-- 👀 I’m interested in Problem Solving
+- 👀 I love Problem Solving
 
 <!---
 kafi-anan-rafi/kafi-anan-rafi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
