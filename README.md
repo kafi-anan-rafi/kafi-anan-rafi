@@ -10,7 +10,7 @@
   
 - 📮 How to reach me [**Mail**](mailto:kafianan01@gmail.com)
 
-- 🗂️ Checkout my [Resume](https://drive.google.com/file/d/1H_ouqKmUz_G-mE_VYH1yWWIF9d7qyJHD/view?usp=share_link)
+- 🗂️ Checkout my [Resume](https://drive.google.com/file/d/1h-CvLFeCiNP-0ImyQMEe0nG1buQF9_1q/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
